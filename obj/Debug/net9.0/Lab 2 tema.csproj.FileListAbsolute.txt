@@ -1,0 +1,14 @@
+D:\PIU\Lab 2 tema\Lab 2 tema\bin\Debug\net9.0\Lab 2 tema.exe
+D:\PIU\Lab 2 tema\Lab 2 tema\bin\Debug\net9.0\Lab 2 tema.deps.json
+D:\PIU\Lab 2 tema\Lab 2 tema\bin\Debug\net9.0\Lab 2 tema.runtimeconfig.json
+D:\PIU\Lab 2 tema\Lab 2 tema\bin\Debug\net9.0\Lab 2 tema.dll
+D:\PIU\Lab 2 tema\Lab 2 tema\bin\Debug\net9.0\Lab 2 tema.pdb
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\Lab 2 tema.GeneratedMSBuildEditorConfig.editorconfig
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\Lab 2 tema.AssemblyInfoInputs.cache
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\Lab 2 tema.AssemblyInfo.cs
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\Lab 2 tema.csproj.CoreCompileInputs.cache
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\Lab 2 tema.dll
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\refint\Lab 2 tema.dll
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\Lab 2 tema.pdb
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\Lab 2 tema.genruntimeconfig.cache
+D:\PIU\Lab 2 tema\Lab 2 tema\obj\Debug\net9.0\ref\Lab 2 tema.dll
